@@ -78,6 +78,9 @@ pip install -r requirements.txt
 - Organizational Overview: Departemen Sales memiliki tingkat resign tertinggi (14.8%), diikuti Human Resources (12%). Tingkat resign juga bervariasi berdasarkan peran pekerjaan, dengan Sales Representative dan Research Director menonjol.
 - Workload Impact: Karyawan dengan overtime memiliki tingkat resign yang jauh lebih tinggi (23.56%) dibandingkan yang tidak (7.69%). Frequent business travel juga meningkatkan tingkat resign (sekitar 20%) dibandingkan non-travel atau travel rarely
 
+### 🎥 Video
+- [Link Video](https://drive.google.com/drive/folders/1mX5Y9gvlK_skZWqvj-7X08D04j3LlFDA?usp=sharing)
+
 ### 🔐 Akses Metabase (setup lokal)
 
 Gunakan login berikut saat pertama kali setup:
@@ -109,6 +112,8 @@ Karyawan yang tidak lembur, memiliki stock option lebih tinggi, serta job level 
 - Integrasi Model Prediksi ke dalam Sistem HRIS untuk Deteksi Dini Risiko Attrition
   - Pasang model ini di sistem HRIS agar bisa mendeteksi karyawan yang berisiko resign dan cepat diatasi.
  
+---
+ 
 ## 🗂️ Struktur Folder Proyek
 
 ```
@@ -117,10 +122,15 @@ submission/
 ├── dataset/
 │   └── employee_data.csv
 │
+├── image/
+│   └── gender dan status.jpg
+│   └── organization review.jpg
+│   └── satisfaction.jpg
+│   └── summary.jpg
+│   └── workload impact.jpg
+│ 
 ├── model/
 │   └── model_attrition_xgboost.pkl
-│
-├── <username_dicoding>-video/
 │
 ├── metabase.db.mv.db (belum tau)
 ├── notebook.ipynb
