@@ -51,11 +51,24 @@ pip install -r requirements.txt
 
 ### Fitur Dashboard
 - Summary: berisi **Total-karyawan**, **Total-Resign**, dan **Persen-Resign**
+
+![](https://github.com/7z1x/Belajar-Penerapan-Data-Science/blob/60630c1f308820c24cb27521f6c2dde8f5f5b66e/image/summary.jpg)
+
 - Struktur Organisasi: Distribusi karyawan berdasarkan **departemen**, **joblevel**, dan **jobrole**.
+
+![](https://github.com/7z1x/Belajar-Penerapan-Data-Science/blob/60630c1f308820c24cb27521f6c2dde8f5f5b66e/image/organization%20review.jpg)
+
 - Kepuasan dan Keterlibatan: Perbandingan **EnvironmentSatisfaction**, **JobInvolvement**, dan **JobSatisfaction** antara karyawan yang resign dan tidak resign.
+
+![](https://github.com/7z1x/Belajar-Penerapan-Data-Science/blob/60630c1f308820c24cb27521f6c2dde8f5f5b66e/image/satisfaction.jpg)
+
 - Faktor Demografis: Analisis attrition berdasarkan **Gender** dan **MarritalStatus**.
+
+![](https://github.com/7z1x/Belajar-Penerapan-Data-Science/blob/60630c1f308820c24cb27521f6c2dde8f5f5b66e/image/gender%20dan%20status.jpg)
+
 - Kondisi Kerja: Dampak lembur **OverTime** dan frekuensi perjalanan dinas **BusinessTravel**terhadap attrition rate.
-- Visualisasi berbentuk **batang**, kecuali untuk Summary yang ditampilkan dalam bentuk **angka**
+
+![](https://github.com/7z1x/Belajar-Penerapan-Data-Science/blob/60630c1f308820c24cb27521f6c2dde8f5f5b66e/image/workload%20impact.jpg)
 
 ### ✅ Insight
 
