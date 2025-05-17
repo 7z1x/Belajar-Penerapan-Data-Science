@@ -81,13 +81,19 @@ pip install -r requirements.txt
 ### 🎥 Video
 - [Link Video](https://drive.google.com/drive/folders/1mX5Y9gvlK_skZWqvj-7X08D04j3LlFDA?usp=sharing)
 
+### ⬇️ Deploy Metabase
+- [Dashboard Metabase](https://metabase.turu.eu.org/dashboard/2-jaya-jaya-maju-zulfahmi)
+
+Gunakan login berikut:
+  - **Email**: `root@mail.com`
+  - **Password**: `root123`
+
 ### 🔐 Akses Metabase (setup lokal)
 
 Gunakan login berikut saat pertama kali setup:
 
 - **Email**: `root@mail.com`
 - **Password**: `root123`
-
   
 ---
 
