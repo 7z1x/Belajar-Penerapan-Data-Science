@@ -135,19 +135,20 @@ submission/
 │   └── employee_data.csv
 │
 ├── image/
-│   └── gender dan status.jpg
-│   └── organization review.jpg
-│   └── satisfaction.jpg
-│   └── summary.jpg
-│   └── workload impact.jpg
+│   └── zulfahmi17z_dashboard(1).jpg
+│   └── zulfahmi17z_dashboard(2).jpg
+│   └── zulfahmi17z_dashboard(3).jpg
+│   └── zulfahmi17z_dashboard(4).jpg
+│   └── zulfahmi17z_dashboard.jpg
 │ 
 ├── model/
 │   └── model_attrition_xgboost.pkl
 │
 ├── metabase.db.mv.db (belum tau)
 ├── notebook.ipynb
-├── notebook.py
+├── predict.py
 ├── requirements.txt
+├── zulfahmi17z_video.mov
 └── README.md
 ```
 
