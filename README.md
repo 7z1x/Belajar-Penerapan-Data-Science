@@ -45,6 +45,12 @@ pip install -r requirements.txt
 
 ```
 
+### ➡️ Menjalankan Script Prediksi
+
+```bash
+python predict.py
+```
+
 ---
 
 ## 📊 Business Dashboard
@@ -52,23 +58,23 @@ pip install -r requirements.txt
 ### Fitur Dashboard
 - Summary: berisi **Total-karyawan**, **Total-Resign**, dan **Persen-Resign**
 
-![](https://github.com/7z1x/Belajar-Penerapan-Data-Science/blob/60630c1f308820c24cb27521f6c2dde8f5f5b66e/image/summary.jpg)
+![](https://github.com/7z1x/Belajar-Penerapan-Data-Science/blob/125b53881400ede5abe33902dd51c727297af5df/image/zulfahmi17z_dashboard(3).jpg)
 
 - Struktur Organisasi: Distribusi karyawan berdasarkan **departemen**, **joblevel**, dan **jobrole**.
 
-![](https://github.com/7z1x/Belajar-Penerapan-Data-Science/blob/60630c1f308820c24cb27521f6c2dde8f5f5b66e/image/organization%20review.jpg)
+![](https://github.com/7z1x/Belajar-Penerapan-Data-Science/blob/125b53881400ede5abe33902dd51c727297af5df/image/zulfahmi17z_dashboard(1).jpg)
 
 - Kepuasan dan Keterlibatan: Perbandingan **EnvironmentSatisfaction**, **JobInvolvement**, dan **JobSatisfaction** antara karyawan yang resign dan tidak resign.
 
-![](https://github.com/7z1x/Belajar-Penerapan-Data-Science/blob/60630c1f308820c24cb27521f6c2dde8f5f5b66e/image/satisfaction.jpg)
+![](https://github.com/7z1x/Belajar-Penerapan-Data-Science/blob/125b53881400ede5abe33902dd51c727297af5df/image/zulfahmi17z_dashboard(2).jpg)
 
 - Faktor Demografis: Analisis attrition berdasarkan **Gender** dan **MarritalStatus**.
 
-![](https://github.com/7z1x/Belajar-Penerapan-Data-Science/blob/60630c1f308820c24cb27521f6c2dde8f5f5b66e/image/gender%20dan%20status.jpg)
+![](https://github.com/7z1x/Belajar-Penerapan-Data-Science/blob/125b53881400ede5abe33902dd51c727297af5df/image/zulfahmi17z_dashboard.jpg)
 
 - Kondisi Kerja: Dampak lembur **OverTime** dan frekuensi perjalanan dinas **BusinessTravel**terhadap attrition rate.
 
-![](https://github.com/7z1x/Belajar-Penerapan-Data-Science/blob/60630c1f308820c24cb27521f6c2dde8f5f5b66e/image/workload%20impact.jpg)
+![](https://github.com/7z1x/Belajar-Penerapan-Data-Science/blob/125b53881400ede5abe33902dd51c727297af5df/image/zulfahmi17z_dashboard(4).jpg)
 
 ### ✅ Insight
 
